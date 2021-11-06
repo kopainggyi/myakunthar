@@ -464,8 +464,8 @@ img{
         row-gap: 0;
     }
     .home__img{
-        width: 300px;
-        right: 10%;
+        width: 260px;
+        bottom: 1%;
     }
     .home__btn {
         bottom: 170px;
